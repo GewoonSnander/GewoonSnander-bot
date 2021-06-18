@@ -1,0 +1,19 @@
+{
+  "name": "gewoonsnander_bot",
+  "version": "1.0.0",
+  "description": "GewoonSnander_BOT",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon"
+  },
+  "author": "Sander",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^12.5.3",
+    "fs": "0.0.1-security"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.7"
+  }
+}
